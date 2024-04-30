@@ -5,3 +5,7 @@ h2 { margin-left: 30%;
 }
 h2 {border-width: 30%;
 }
+body{border-color: blueviolet;
+     border-style: solid;
+    border-left: 20%;
+}
