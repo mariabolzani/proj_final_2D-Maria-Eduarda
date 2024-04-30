@@ -9,3 +9,9 @@ body{border-color: blueviolet;
      border-style: solid;
     border-left: 20%;
 }
+#imag1 {width: 50%;
+margin-left: 20%;
+border-style: solid;
+border-color: azure;
+border-width: 5px;
+}
